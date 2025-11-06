@@ -200,8 +200,9 @@ Press **Ctrl + C** to gracefully stop producer or consumer.
 | `README.md`                       | Project documentation                         |
 
 ---
-## **Conclusion**
+## Conclusion
 
+This project showcases how **Apache Kafka** can integrate seamlessly with **machine learning pipelines** for real-time intelligent data processing.  
+It provides a scalable framework that can be extended to other domains like sentiment analysis, anomaly detection, and recommendation systems.
 
-This project showcases how **Apache Kafka** can integrate seamlessly with **machine learning pipelines** for real-time intelligent data processing. It provides a scalable framework that can be extended to other domains like sentiment analysis, anomaly detection, and recommendation systems.
 ---
