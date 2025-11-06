@@ -1,14 +1,19 @@
----
-
 # Real-Time News Topic Classification using Apache Kafka
 
 ## **Project Overview**
 
-This project demonstrates a **real-time data processing pipeline** built using **Apache Kafka** and **Python** to automatically classify streaming news articles into four categories — **World, Sports, Business,** and **Sci/Tech**.
-It combines **streaming, NLP preprocessing, sentiment analysis, and machine learning inference** in one end-to-end intelligent system.
+This project demonstrates a **real-time data processing pipeline** built using **Apache Kafka** and **Python** to automatically classify streaming news articles into four categories — **World, Sports, Business,** and **Sci/Tech**.  
+The pipeline combines **real-time data streaming**, **NLP preprocessing**, **sentiment analysis**, and **machine learning inference** to build an end-to-end intelligent classification system.
+
 
 ---
+## 🎥 Demo Recording
 
+🎬 [Click here to watch the demo](https://github.com/sai-sushma-maddali/kafka-news-classifier/raw/main/03%20demo%20recording/news-classifier-kafka-demo-recording.mp4)
+
+> The video demonstrates the end-to-end Kafka streaming pipeline — the producer streams news articles and the consumer performs real-time NLP preprocessing and topic classification.
+
+---
 ## **Pipeline Architecture**
 
 ### **1. Data Source**
@@ -113,6 +118,20 @@ The resulting model achieved **~90% accuracy** on validation data.
 | **scikit-learn**   | TF-IDF, scaling, model pipeline, LinearSVC    |
 | **joblib**         | Saving/loading trained pipeline               |
 | **Kafka-Python**   | Kafka producer/consumer implementation        |
+
+---
+
+## **Environment and Dependencies**
+
+| Library | Version |
+|----------|----------|
+| Python | 3.10 |
+| scikit-learn | 1.6.1 |
+| nltk | 3.9 |
+| textblob | 0.18.0 |
+| pandas | 2.2.3 |
+| kafka-python | 2.0.2 |
+| joblib | 1.4.2 |
 
 ---
 
