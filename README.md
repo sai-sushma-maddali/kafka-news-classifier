@@ -7,9 +7,9 @@ The pipeline combines **real-time data streaming**, **NLP preprocessing**, **sen
 
 
 ---
-## 🎥 Demo Recording
+## Demo Recording
 
-🎬 [Click here to watch the demo](https://github.com/sai-sushma-maddali/kafka-news-classifier/raw/main/03%20demo%20recording/news-classifier-kafka-demo-recording.mp4)
+[Click here to watch the demo](https://github.com/sai-sushma-maddali/kafka-news-classifier/blob/main/03%20demo%20recording/news-classifier-kafka-demo-recording.mp4)
 
 > The video demonstrates the end-to-end Kafka streaming pipeline — the producer streams news articles and the consumer performs real-time NLP preprocessing and topic classification.
 
